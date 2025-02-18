@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "To Do List",
+  title: "Celsius to Fahrenheit Converter",
   description: "Created by Aditya Verma",
 };
 
